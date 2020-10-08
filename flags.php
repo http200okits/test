@@ -1,4 +1,3 @@
-
 <?php
 if($_SERVER['HTTP_USER_AGENT'] == "RandomBot")
   echo "flag is '$t@y#*m3$t@Y$@f3';
