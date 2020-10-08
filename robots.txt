@@ -1,0 +1,14 @@
+User-agent: Randombot
+Disallow: /ajax/
+Disallow: /gif.php
+Disallow: /def.php/
+Disallow: /test/
+Disallow: /random/
+Disallow: /aa/bb/cc/
+Disallow: /don't open/
+Disallow: /flagisnothere.php
+Disallow: /flagisnthere.php/
+Disallow: /flagishere.php
+Disallow: /flags.php
+Disallow: /flagisnotthere.php/
+Disallow: /testflags
