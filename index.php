@@ -1,3 +1,3 @@
 <?php
-echo "Hi";
+echo "Come from RandomBot";
 ?>
