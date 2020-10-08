@@ -1,6 +1,6 @@
 <?php
-if($_SERVER['HTTP_USER_AGENT'] == "RandomBot")
-  echo "flag is $t@y#*m3$t@Y$@f3";
+if ($_SERVER['HTTP_USER_AGENT'] == "RandomBot")
+  echo "You are on the way! I am Robot";
 else
-  echo "Try hard! How did you access 1st page";
+  echo "Come from RandomBot";
 ?>
